@@ -18,7 +18,6 @@ public class MainActivity extends AppCompatActivity {
         private int story;
         private int answer1;
         private int answer2;
-        private int counter = 0;
 
         public Context(int idStory, int idAnswer1, int idAnswer2){
             story = idStory;
